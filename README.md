@@ -3,7 +3,7 @@
 This repository contains files necessary to extract google images from web search. 
 
 The way is done is following:
-1.Go to google and search images you want to download, go to "images".
+1.Go to google and search images you want to download.
 2.Scroll down, and stop scrolling whenever you think the rest of the image below are irrelevent or not needed.
 3.Open google web javascript console: On Windows and Linux: Ctrl + Shift + J. On Mac: Cmd + Option + J.
 4.Copy every line of code of js_console.js into the google javascript console(you will get some errors, but do not worry, it's going to work out fine).
