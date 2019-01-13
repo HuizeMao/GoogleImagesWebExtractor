@@ -2,7 +2,7 @@
 
 This repository contains files necessary to extract google images from web search. 
 
-The way is done is following:
+The way it is done is the following:
 
 1.Download the two files(use git clone)
 
